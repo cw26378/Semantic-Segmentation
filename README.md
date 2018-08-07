@@ -31,7 +31,6 @@ Implement the code in the `main.py` module indicated by the "TODO" comments. The
 
 ![alt text][image3]
 
-The comments indicated with "OPTIONAL" tag are not required to complete.
 ##### Run
 Run the following command to run the project:
 ```
@@ -44,8 +43,9 @@ Softmax with L2 regularization is used with beta = 0.001. The result after 32 ep
 
 ![alt text][image1]
 
-![alt text][image2]
-
+![alt text][image2a]![alt text][image2b]
+![alt text][image2c]![alt text][image2d]
+![alt text][image2e]![alt text][image2f]
 
 ### Submission
 1. Ensure you've passed all the unit tests.
