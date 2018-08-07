@@ -18,11 +18,11 @@ Download the [Kitti Road dataset](http://www.cvlibs.net/datasets/kitti/eval_road
 
 [image1]: ./loss_decay_epoch.png "Loss decay over training epochs"
 [image2a]: ./example-1.png "example-1"
-[image2b]: ./example-1.png "example-2"
-[image2c]: ./example-1.png "example-3"
-[image2d]: ./example-1.png "example-4"
-[image2e]: ./example-1.png "example-5"
-[image2f]: ./example-1.png "example-6"
+[image2b]: ./example-2.png "example-2"
+[image2c]: ./example-3.png "example-3"
+[image2d]: ./example-4.png "example-4"
+[image2e]: ./example-5.png "example-5"
+[image2f]: ./example-6.png "example-6"
 [image3]: ./FCN_illustration.png "FCN upsampling and skip connection illustration"
 
 ### Start
